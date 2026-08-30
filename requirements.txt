@@ -1,0 +1,11 @@
+# Ren'Py AI Translator dependencies.
+#
+# The backend (parser, tl generator, HTTP client) uses only the Python standard
+# library. The desktop window is the only third-party requirement.
+pywebview>=5.0
+
+# Windows note: pywebview renders with the Microsoft Edge WebView2 runtime,
+#   which ships with Windows 10/11. If the window stays blank, install the
+#   "Evergreen WebView2 Runtime" from Microsoft, or `pip install pythonnet`.
+# macOS/Linux note: pywebview uses the system WebKit; on Linux you may need
+#   `pip install pywebview[qt]` or the GTK/WebKit2 system packages.

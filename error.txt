@@ -1,0 +1,1544 @@
+```
+I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/tl/vietnamese/0constants.rpy", line 7: expected statement.
+    "Trang phục nữ sinh (Tập 1)" : "School",
+                           ^
+
+File "game/tl/vietnamese/0constants.rpy", line 13: expected statement.
+    "Váy quán bar (Tập 1)" : "Bar",
+                       ^
+
+File "game/tl/vietnamese/0constants.rpy", line 19: expected statement.
+    "Trang phục dự tiệc (Tập 2)" : "Party",
+                          ^
+
+File "game/tl/vietnamese/0constants.rpy", line 25: expected statement.
+    "Trang phục tập gym (Tập 2)" : "Gym",
+                           ^
+
+File "game/tl/vietnamese/0constants.rpy", line 31: expected statement.
+    "Trang phục hầu gái (Tập 2)" : "Maid",
+                          ^
+
+File "game/tl/vietnamese/0constants.rpy", line 37: expected statement.
+    "Trang phục cảnh sát (Tập 3)" : "Police",
+                           ^
+
+File "game/tl/vietnamese/0constants.rpy", line 43: expected statement.
+    "Trang phục nữ tu (Tập 3)" : "Nun",
+                         ^
+
+File "game/tl/vietnamese/0constants.rpy", line 49: expected statement.
+    "Trang phục Lucilla (Tập 4)" : "Lucilla",
+                             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 55: expected statement.
+    "Trang phục hầu gái hư hỏng (Tập 5)" : "NaughtyMaid"
+                                 ^
+
+File "game/tl/vietnamese/0constants.rpy", line 61: expected statement.
+    "A" : 97,
+        ^
+
+File "game/tl/vietnamese/0constants.rpy", line 67: expected statement.
+    "S" : 115,
+        ^
+
+File "game/tl/vietnamese/0constants.rpy", line 73: expected statement.
+    "D" : 100,
+        ^
+
+File "game/tl/vietnamese/0constants.rpy", line 79: expected statement.
+    "W" : 119,
+        ^
+
+File "game/tl/vietnamese/0constants.rpy", line 85: expected statement.
+    "LÊN" : 1073741906,
+         ^
+
+File "game/tl/vietnamese/0constants.rpy", line 91: expected statement.
+    "XUỐNG" : 1073741905,
+          ^
+
+File "game/tl/vietnamese/0constants.rpy", line 97: expected statement.
+    "TRÁI" : 1073741904,
+          ^
+
+File "game/tl/vietnamese/0constants.rpy", line 103: expected statement.
+    "PHẢI" : 1073741903,
+         ^
+
+File "game/tl/vietnamese/0constants.rpy", line 109: expected statement.
+    "Sự thật 1" : [__("The inner lining of the human mouth and the vagina are of the same membrane type.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 115: expected statement.
+    "Sự thật 2" : [__("The word “clitoris” comes from the Greek word for “key.”")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 121: expected statement.
+    "Sự thật 3" : [__("The penis is not a muscle.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 127: expected statement.
+    "sự thật 4" : [__("A man produces more than 500 billion sperm cells in his entire lifetime.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 133: expected statement.
+    "sự thật 5" : [__("One-fourth of the bones in the human body are in the feet.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 139: expected statement.
+    "sự thật 6" : [__("The average speed of a male ejaculation is 28 miles per hour.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 145: expected statement.
+    "sự thật 7" : [__("Tooth enamel is the hardest substance in the human body.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 151: expected statement.
+    "sự thật 8" : [__("The human heart beats roughly 100,000 times per day.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 157: expected statement.
+    "sự thật 9" : [__("The skin between your genitalia and anus is called the perineum.")],
+            ^
+
+File "game/tl/vietnamese/0constants.rpy", line 163: expected statement.
+    "sự thật 10" : [__("The clitoris has 8,000 nerve endings.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 169: expected statement.
+    "sự thật 11" : [__("The smallest bone in the human body is the stapes.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 175: expected statement.
+    "sự thật 12" : [__("The skin is the largest organ in the human body.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 181: expected statement.
+    "sự thật 13" : [__("A single square inch of skin contains hundreds of sweat glands.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 187: expected statement.
+    "sự thật 14" : [__("A vagina can double in size when aroused.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 193: expected statement.
+    "sự thật 15" : [__("The first silicone breast implant was performed in 1962.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 199: expected statement.
+    "sự thật 16" : [__("Dr. John Kellogg recommended male circumcision as a “cure” for masturbation.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 205: expected statement.
+    "sự thật 17" : [__("The average vasectomy takes less than an hour to perform.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 211: expected statement.
+    "sự thật 18" : [__("During an orgasm, the body releases Oxytocin, otherwise called “The Love Hormone.”")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 217: expected statement.
+    "sự thật 19" : [__("The human tongue consists of eight different muscles.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 223: expected statement.
+    "sự thật 20" : [__("The oldest woman to give birth was 74 years old.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 229: expected statement.
+    "sự thật 21" : [__("Your brain isn’t fully formed until you’re 25 years old.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 235: expected statement.
+    "sự thật 22" : [__("Women have stronger immune systems than men.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 241: expected statement.
+    "sự thật 23" : [__("A female’s egg is fertile up to 48 hours after ovulation.")],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 247: expected statement.
+    "fact_24" : [__("There are roughly 20 calories in a teaspoon of semen.")],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 253: expected statement.
+    "fact_25" : [__("Worldwide, more than one million sexually transmitted infections are acquired every day.")],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 259: expected statement.
+    "fact_26" : [__("The gluteus maximus is the largest muscle in the human body.")],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 265: expected statement.
+    "fact_27" : [__("The liver is the only organ that can regenerate itself.")],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 271: expected statement.
+    "fact_28" : [__("The fear of sexual activity is called Genophobia.")],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 277: expected statement.
+    "fact_29" : [__("The medical term for the butt crack is the intergluteal cleft.")],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 283: expected statement.
+    "fact_30" : [__("There are over 650 muscles in the human body.")]
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 289: expected statement.
+    "fact_1" : [__("The inner lining of the human mouth and the ________ are of the same membrane type."), [__("Vagina"), "correct"], [__("Skull"), "incorrect"], [__("Heart"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 295: expected statement.
+    "fact_2" : [__("The word “clitoris” comes from what Greek word?"), [__("Harp"), "incorrect"], [__("Key"), "correct"], [__("Blade"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 301: expected statement.
+    "fact_3" : [__("The penis is not a muscle."), [__("True"), "correct"], [__("False"), "incorrect"], [__(" It’s the biggest muscle I have!"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 307: expected statement.
+    "fact_4" : [__("A man produces more than 500 _____ sperm cells in his entire lifetime."), [__("Million"), "incorrect"], [__("Thousand"), "incorrect"], [__("Billion"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 313: expected statement.
+    "fact_5" : [__("The bones in the feet make up how much of the human body?"), [__("One-fourth"), "correct"], [__("Half"), "incorrect"], [__("All of them. All of the bones in your body are in the feet."), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 319: expected statement.
+    "fact_6" : [__("How many miles per hour is the average speed of a male ejaculation?"), [__("2"), "incorrect"], [__("100"), "incorrect"], [__("28"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 325: expected statement.
+    "fact_7" : [__("What is the hardest substance in the human body?"), [__("Bone"), "incorrect"], [__("Penis"), "incorrect"], [__("Tooth enamel"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 331: expected statement.
+    "fact_8" : [__("On average, how many times does the human heart beat in a day?"), [__("1,000,000"), "incorrect"], [__("100,000"), "correct"], [__("10,000"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 337: expected statement.
+    "fact_9" : [__("What is the skin between your genitalia and the anus called?"), [__("The Perineum"), "correct"], [__("The Bering Strait"), "incorrect"], [__("The No Fly Zone"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 343: expected statement.
+    "fact_10" : [__("The clitoris has how many nerve endings?"), [__("800"), "incorrect"], [__("8,000"), "correct"], [__("What’s a clitoris?"), "incorrect"]],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 349: expected statement.
+    "fact_11" : [__("What is the smallest bone in the human body?"), [__("The pinky finger"), "incorrect"], [__("The little toe"), "incorrect"], [__("The stapes"), "correct"]],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 355: expected statement.
+    "fact_12" : [__("What is the largest organ on the human body?"), [__("The skin"), "correct"], [__("The brain"), "incorrect"], [__("The penis"), "incorrect"]],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 361: expected statement.
+    "fact_13" : [__("A single square inch of skin contains ______ of sweat glands."), [__("Hundreds"), "correct"], [__("Thousands"), "incorrect"], [__("Millions"), "incorrect"]],
+              ^
+
+File "game/tl/vietnamese/0constants.rpy", line 367: expected statement.
+    "Sự thật 14" : [__("A vagina can _____ in size when aroused."), [__("Triple"), "incorrect"], [__("Double"), "correct"], [__("Shrink"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 373: expected statement.
+    "Sự thật 15" : [__("The first silicone breast implant was performed in what year?"), [__("1962"), "correct"], [__("1850"), "incorrect"], [__("Whatever year Baywatch came out"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 379: expected statement.
+    "Sự thật 16" : [__("What doctor recommended male circumcision as a “cure” for masturbation?"), [__("Dr. Phil"), "incorrect"], [__("Dr. Pepper"), "incorrect"], [__("Dr. John Kellogg"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 385: expected statement.
+    "Sự thật 17" : [__("How long does the average vasectomy take to perform?"), [__("Two days"), "incorrect"], [__("Less than an hour"), "correct"], [__("12 hours"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 391: expected statement.
+    "Sự thật 18" : [__("When does the body release Oxytocin, otherwise called “The Love Hormone?”"), [__("A sneeze"), "incorrect"], [__("A cough"), "incorrect"], [__("An orgasm"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 397: expected statement.
+    "Sự thật 19" : [__("The human tongue consists of how many different muscles?"), [__("One"), "incorrect"], [__("Eight"), "correct"], [__("Seventy-Five"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 403: expected statement.
+    "Sự thật 20" : [__("What age was the oldest woman to give birth?"), [__("74"), "correct"], [__("80"), "incorrect"], [__("101"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 409: expected statement.
+    "Sự thật 21" : [__("What age are you when your brain is fully formed?"), [__("25"), "correct"], [__("15"), "incorrect"], [__("21"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 415: expected statement.
+    "Sự thật 22" : [__("Women have stronger _____ systems than men."), [__("Skeletal"), "incorrect"], [__("Nervous"), "incorrect"], [__("Immune"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 421: expected statement.
+    "Sự thật 23" : [__("A female’s egg is fertile up to 48 hours after ovulation."), [__("True"), "correct"], [__("False"), "incorrect"], [__("She said she was on the pill…"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 427: expected statement.
+    "Sự thật 24" : [__("Roughly how many calories are in a teaspoon of semen?"), [__("100"), "incorrect"], [__("0"), "incorrect"], [__("20"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 433: expected statement.
+    "Sự thật 25" : [__("Worldwide, how many sexually transmitted infections are acquired each day?"), [__("One million"), "correct"], [__("One billion"), "incorrect"], [__("Two million"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 439: expected statement.
+    "Sự thật 26" : [__("What is the largest muscle in the human body?"), [__("The brain"), "incorrect"], [__("The gluteus maximus"), "correct"], [__("Biceps, bro"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 445: expected statement.
+    "Sự thật 27" : [__("What is the only organ that can regenerate itself?"), [__("The lungs"), "incorrect"], [__("The heart"), "incorrect"], [__("The liver"), "correct"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 451: expected statement.
+    "Sự thật 28" : [__("What is the fear of sexual activity called?"), [__("Genophobia"), "correct"], [__("Arachnophobia"), "incorrect"], [__("Examophobia"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 457: expected statement.
+    "Sự thật 29" : [__("What is the medical term for the butt crack?"), [__("Grandimus Canyonus"), "incorrect"], [__("Intergluteal Cleft"), "correct"], [__("Thunderous Dumperous"), "incorrect"]],
+             ^
+
+File "game/tl/vietnamese/0constants.rpy", line 463: expected statement.
+    "Sự thật 30" : [__("There are over 650 _____ in the human body."), [__("Organs"), "incorrect"], [__("Baby Teeth"), "incorrect"], [__("Muscles"), "correct"]]
+             ^
+
+File "game/tl/vietnamese/0init.rpy", line 7: expected statement.
+    "K_a" : 97,
+          ^
+
+File "game/tl/vietnamese/0init.rpy", line 13: expected statement.
+    "K_s" : 115,
+          ^
+
+File "game/tl/vietnamese/0init.rpy", line 19: expected statement.
+    "K_d" : 100,
+          ^
+
+File "game/tl/vietnamese/0init.rpy", line 25: expected statement.
+    "K_w" : 119,
+          ^
+
+File "game/tl/vietnamese/0init.rpy", line 31: expected statement.
+    "K_UP" : 1073741906,
+           ^
+
+File "game/tl/vietnamese/0init.rpy", line 37: expected statement.
+    "K_DOWN" : 1073741905,
+             ^
+
+File "game/tl/vietnamese/0init.rpy", line 43: expected statement.
+    "K_LEFT" : 1073741904,
+             ^
+
+File "game/tl/vietnamese/0init.rpy", line 49: expected statement.
+    "K_RIGHT" : 1073741903,
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 7: expected statement.
+    "Brokenone222 \ \ \ \ \ \ \ " , "Katie Barnes", "Lucky Number",
+                                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 13: expected statement.
+    "Zac Corbett" , "Spikkle", "Dominik Helling",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 19: expected statement.
+    "Doddz" , "curtisworthy", "sgtgrr",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 25: expected statement.
+    "Bluejay2244" , "kilolo"
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 31: expected statement.
+    "LR \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ " , "omar sheriff", "Dave", "Joker ", "Bernhar Richter", "Sundeep Singh",
+                                                                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 37: expected statement.
+    "Oli " , "sgtgrr ", "CMRK4N6 ", "brenlands", "john grocock", "MK",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 43: expected statement.
+    "Doddz " , "Lord Lichi", "Kunggren", "Runious", "Christian Portalatin", "vermontman",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 49: expected statement.
+    "Mike" , "Celdtrex", "Mongoose", "Racknon", "crypt1q", "Chief Solo",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 55: expected statement.
+    "derpgermany" , "Lagermichi", "billwang2788", "Darrell", "Knightsfall", "EarthKaKe",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 61: expected statement.
+    "JP" , "Susann", "Aktor", "Keith_66", "Bluejay2244", "Ziggy",
+         ^
+
+File "game/tl/vietnamese/credits.rpy", line 67: expected statement.
+    "waldemar singer" , "epulchenko ", "Bob Bobberson", "CF2208", "aow59", "Pizzabagaren",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 73: expected statement.
+    "Rumtreibaer" , "Bob", "limohi", "kilolo", "Matt", "Biggz ",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 79: expected statement.
+    "Desmond97" , "Zone", "Monk3yman69", "Louis",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 85: expected statement.
+    "Lukáš Marek" , "lölölölö", "ID3D", "Mally", "Wayne", "kaz",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 91: expected statement.
+    "Matthew" , "albee kangas", "Dallas McMahan", "Throwaway", "Xavier Flohart", "TuomoRuutu",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 97: expected statement.
+    "Dan Zhao" , "Rumtreibaer", "bat92", "Kvadning", "Dr Puma", "Melander"
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 103: expected statement.
+    "Todd Skidmore \ \ \ \ \ \ \ \ \ \ " , "Btank", "Alex", "Matt Prestipino", "Brandon94", "John Sherwood", "Hannah", "Agent__PvP ", "Greg Giaquinto", "Trevor Turner", "CCOnly", "sandiexcx",
+                                         ^
+
+File "game/tl/vietnamese/credits.rpy", line 109: expected statement.
+    "Personalspaceheater" , "ysstea", "Bueno adnol", "Zac Corbett", "TheLoneLegionary", "Jürgen Lau", "Bagelmeister ", "SaharKM", "John", "Drayon73", "Ryan Black", "OneTimePluto",
+                          ^
+
+File "game/tl/vietnamese/credits.rpy", line 115: expected statement.
+    "Givens_Datin21" , "MaximusDecimuz ", "Mikkel Kvisgaard-Thomsen", "Mister Durden", "Cøffêe", "Sat Torres", "Hugo Mung Bass", "Tidre", "BruceT", "jordan claeson", "Rhys Hansen", "sduke ",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 121: expected statement.
+    "Rags" , "fig kai Lau", "SUGAR816", "SunkissedPapayas", "Jon P", "ellocco15", "Eason Chen", "Pete Henson", "Jalen Bigney", "Boogieman665 ", "Eric Khan", "C000Gi",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 127: expected statement.
+    "ihilk" , "P", "Mcgalla", "sepipato", "Jacob Larson", "J ", "Cpt Awe", "koalaa", "Flapple Fan", "jia071230", "reinmar ", "GamerSon",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 133: expected statement.
+    "Kihra" , "Dustin", "WOW125", "1Rooster1", "rob10006_89288", "Johnny", "Gray ", "Your_Big_Fan", "Chrione", "Legrofoudu42", "Ronnel66", ".rabblerouse",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 139: expected statement.
+    "Krozos" , "Solstorm", "Tom Hofstetter", "TMT", "MrChili", "Bigfoot", "Szergely", "Anthony Benko", "Swock_Wickdus", "Delirius", "Mavis Sivram", "Bjarne Ahrens",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 145: expected statement.
+    "LorenorBasti" , "Sagara88", "shadowlegion27 ", "Domenik Reiwalk", "Philip Desjardins", "Job ", "Star Zeaker27", "Tyler Lincoln", "ghost ", "Philip Cooke", "Nick Wilson", "Bob",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 151: expected statement.
+    "kevin joannes" , "yawor666", "Dark Knight", "Drebrew", "Gedis", "Jonathan Chow", "buzuck", "Jan Perkitny", "quikshot464", "David H", "Stranger 1", "MahoganyZakTHEX",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 157: expected statement.
+    "mrlarsen22" , "mariov10000", "Marcell Wolf", "xla", "uncfan88", "Boel Roger", "JJ", "Wilko97", "maxime027", "RoyalCandy ", "Tija", "DC",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 163: expected statement.
+    "LGMA" , "squidy1950", "chantriaux ", "psychokeks7952", "hawknight909", "Inspirated Marcy", "0151grfe", "Derto", "histoastyness", "Ade McDarth", "kriss2233", "w0059",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 169: expected statement.
+    "Iain " , "David", "Brad ", "ilazykilleri", "jenna1492", "viper68 ", "CC", "RedHeadedIdiot", "Vandr Zero", "Jarred Caito", "Joe Tech", "lazlo parks",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 175: expected statement.
+    "ringenbach" , "Chris", "valyria1997", "Pasquale Valente", "t C****k", "grblfix", "Willem van Peet", "kellison93", "neil clark", "edwin_garrison", "narutosama ", "stonesogood",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 181: expected statement.
+    "eso_007" , "totts_44540", "Jaime Camberos", "Chris ", "dmleon", "J Shoopman", "JT", "Ursamajor98", "Tony90jackeyyboyy", "beholder8", "darkerness.1234", "odd2335",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 187: expected statement.
+    "chineseamericanfairy" , "robrz21_49433", "Alex", "Michael", "Wolfscarred", "Mando", "LordWolf_", "Paco Estevez", "Jacob", "ZZ334", "jfckinga", "Subcommandante",
+                           ^
+
+File "game/tl/vietnamese/credits.rpy", line 193: expected statement.
+    "Tony" , "Andrew Lamar"
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 199: expected statement.
+    "mick" , "RubberSoul", "Blubb dsbu80", "Anthony Benko", "Shrike ", "Pello ", "WL ", "Acelectric", "mjunknown", "B.d",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 205: expected statement.
+    "Jhinteresting" , "Michael Campbell", "Gleb C", "Michael Johnson", "phantom76", "Kill4you", "ValleyTravels", "morten dahle", "Jose ", "coco", "tango455457176", "Brandon Brost",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 211: expected statement.
+    "rohith meka" , "Jimmy D", "Masyu Kimi", "Patternless ", "Empathetic_ Chaoss", "MonkeySpittle", "Jason", "Lars", "Oliver GruÃŸ", "TSherman0421 ", "MMon", "Halim HÄ±zlan",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 217: expected statement.
+    "Peter Chun" , "xevian", "Joe Siconolfi", "Daxter", "Performance M", "Mfmalvc", "Luca Coltelli", "dirk stoltenberg", "Udo Wolters", "Andre Joly", "Tonka ", "DH",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 223: expected statement.
+    "superninja" , "Marco", "Daniel sahr", "Kenneth Buck", "kazuma8544", "Greg", "CYHUEN", "Hazenthely", "Derreck", "Ace ", "MarcialART", "Lockelet",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 229: expected statement.
+    "w00t" , "Legs", "Sven Hiemer", "sumecz", "Ryan Knight", "Sirok100", "Eric wade", "Tithann ", "T0x1cMan", "Jshmf", "decoda2015", "robbarr9229",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 235: expected statement.
+    "demonio22ace" , "boucbrutal", "xavier mazounie", "N.B.", "Angelo", "Civi22", "Icarus0312", "Paweł Sowiński", "rexy9060", "prizmaking0832", "danielngho", "derfpron",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 241: expected statement.
+    "orion3333263" , "Risbo ", "alfi nijam", "John Keele", "JING ", "idkwhy", "Mettfreund 27", "zohan929", "Jeff Elam", "Kevin Radka", "Sinj ", "Bob ",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 247: expected statement.
+    "StefAdler" , "Rand Marcus", "niteflyeruzi", "Cookie", "Kidd0 ", "a47356441", "James Dickan", "Boss no cap", "JSexton", "yolo", "renaud grenier", "IchigoKuchiki ",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 253: expected statement.
+    "kernowschild" , "Ovidiu Negrut", "TheRedShad0w ", "Candleguy", "Webo548", "Andrew Witte", "Martin Williams", "Timbo Bimbo", "Kickcobra", "unknoi25", "R S", "Hisoka",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 259: expected statement.
+    "M. S." , "Grimkay", "S dd", "Hudyma", "Bryan Thurnau", "Booker Rep-Rah", "City Altuna", "Michael Weber", "Royer22+", "Icebergslim50", "Tyr_97", "Munu",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 265: expected statement.
+    "ghost59" , "Andy Spacesoul", "Nexus", "Hoppenstedt123", "mr_conanbear", "Iw", "Ian M Hennig", "JC", "Matthew", "Chris", "MiraiKage", "vic",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 271: expected statement.
+    "awsumCrusader" , "Никола Тошков", "Joachim Hillmann", "arby_71548", "geminosz", "Weynick", "Michele Banfi", "Terry", "Jormungadr", "Nuthel", "Jake", "Bamm",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 277: expected statement.
+    "Doomduck" , "Dexeron2000 ", "Dallien", "pio 581", "Jason ", "JAB", "Jorm Lome", "Mathieu Côté", "Dusty V", "Roberto ", "WTRKnife", "Hans Evans",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 283: expected statement.
+    "andrzej nosek" , "CT PD", "Heath Miller", "Black Soul", "Juan Bernal", "Stubby", "badgerbane", "wpetew", "skullbooks", "24/7 Vayne", "Fredrik Johansson", "Steve Craley",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 289: expected statement.
+    "Idoit4you2" , "MoMst", "Roy Kwong", "Tom", "Matthias Lesch", "Bob", "John Holloway", "Chris", "kim", "Jim ", "Markus Larsson", "Adam Burge",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 295: expected statement.
+    "Dan Cho" , "Christopher alvarez", "Szalai László", "Eli Cash", "JaOrt", "Dennis Gottwald", "poing", "cjw290", "Jayooo187", "krissy dill", "John", "TsktskNaughtyBaddy",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 301: expected statement.
+    "Dion Detillier" , "TheRovingThunderbird", "PJ Page", "Gottmorder ", "amir shahar", "Garrett Fetzer", "russiangusta", "lathehettechpriest", "rexjdolling3r", "karnival2640", "shagagy8107", "ty095355",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 307: expected statement.
+    "proxieqt" , "David", "Mikey Amoah", "pk1976", "BerndJ", "Phantom Bug", "Marvin Compper", "Seraph11", "Nicolo Dalan", "uwe anklam", "Amathor", "Hiro",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 313: expected statement.
+    "Scott Walters" , "MortyX", "Zach Rush", "Tobiasz Borzyszkowski", "Manfred Strehle", "Haoyang Huang", "sebgaming687", "Andrea", "JB79", "Gonzo", "Joseph Nevins", "Orlando ",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 319: expected statement.
+    "jgt121212" , "Jared25", "Postpunk96", "Kondor", "Demetrio Rolo", "Saylon ", "Spmbx12", "Kai", "DERBÄR 89", "Der_Streichholz", "Ernane Filho", "Claudia Linder",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 325: expected statement.
+    "Tomas Ploug" , "Masterblackt", "Lee Brooks", "Briareos Hectonchires", "Tangent", "shahram bahadori", "Roberto Moore C.", "gamermaniac87", "Andrew Johnson", "Extreuer 507", "Kevin Cremering", "Qarnack",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 331: expected statement.
+    "Dark man" , "Keramas Kid", "Jurriaan Zwart", "Malene135", "Andrew", "Seabert Guo", "Revan", "Bob", "John", "Marley Banks ", "Philipp bereswill", "David Salmon",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 337: expected statement.
+    "vdrivni" , "wenceslas560", "daveseth", "buster922", "dangusdingus.", "athooos", "pantera1320", "tokyoghoul675464", "shaggy", "Nicolas vermeulen", "Tristan Mottier", "Chris",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 343: expected statement.
+    "Mathieu" , "Michael Jinks", "DerpyShark", "Anthony Garza", "Snape Driskin", "Thomas R", "Xylianth", "Neyzon", "Dylan Therriault", "alien891 ", "PSSSSTTTT", "ItchyWat",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 349: expected statement.
+    "Burner Account" , "Elbenkiller707 !", "Eternity", "Duccio", "Obsius", "FrnFtn", "jeremy Wu", "Kara Hawk", "David WieÃŸner", "Christian BeÃŸler", "TommyLee", "Chuluhadze Mihael",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 355: expected statement.
+    "darthgraygor" , "boris ", "Brian Madsen", "Luca Décrire", "Tiziano Di Muzio", "Meme", "Joerg Drueckhammer", "RJ", "Konnor", "Anubis", "Litherian", "george ",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 361: expected statement.
+    "Brent Getty" , "PrimeKOS", "David Vaughn", "nhoj_784", "GreyLonWolf65 ", "Kane", "tutthart", "Pelzling", "Fmac09", "Rodney", "Justin Stafford", "Todd Hudson",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 367: expected statement.
+    "Denis Marquis" , "Michael Anderson", "gábor petrényi", "Jason Riley ", "andy ", "Benjamin", "Richard Yeo", "David Jackson", "Thomas Haselwanter", "Stoio", "tj boroff", "nunyabusiness84",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 373: expected statement.
+    "pancakeguy" , "Friisk", "Portal50 ", "david sykora", "Chris", "Tiberius", "Brassmoustach", "Vladimir Kursis", "William Brundige", "Gökhan ÖZDENİZ", "Angus Mackinnon", "Fenix87",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 379: expected statement.
+    "John Leonard" , "Timothy Fields", "Silvers", "dandy", "JPaxx", "OldManBeerPig", "eZy", "Bastian ", "DareDevil", "Hunted", "Sequatics", "jim oleniacz",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 385: expected statement.
+    "JaegerKnight" , "SB", "Fig724", "Neros", "Ansger Strumpen", "t r", "Mario Rodriguez", "Roody", "Donald Faucher", "Blood_H", "Kai Elfi", "Graph",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 391: expected statement.
+    "Eddy" , "Andrew", "Thomas Young", "Florian julé", "Nik", "LukyGamer_22", "angus", "Peter", "lcsulla2463", "sam", "Georg", "Martin",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 397: expected statement.
+    "Kevin" , "Franz ", "Jessa Rose Evans", "James Cortright", "Mathieu Mamet", "Tero R", "Axio", "Hollowlens1975", "zephyr27965", "Hang", "Flyffies ", "Wendel Luiz Raia",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 403: expected statement.
+    "Gilles Schweiger" , "Wayne culbert", "Thenac ", "Miroslav Maksimovic", "Rhaios ", "M M", "Scott", "Thomas Schmidt-Jünemann", "john", "Odd1out69", "Mike", "RedGoldman420",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 409: expected statement.
+    "Steven Hill" , "King Hugi", "Ewelina Szczęśniak", "EndlessWaltz00", "Bandit", "AdmiralWulf", "Justin", "rizzik21 ", "Neo ", "Ossichill", "thedudeabides34 ", "Sebastian ElgaÃŸ",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 415: expected statement.
+    "Ernesto Rojas" , "Brandon Carnevalino", "Michael carrillo", "Daniel Duda", "Marc Ceras", "Kerrigan", "Sheriff", "Camille", "Kai", "Luke Burrow", "Scope", "Doctomy",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 421: expected statement.
+    "Damon Tarel" , "Сергей Федоров", "John Andrews", "S.Daug", "Noah ", "Burns", "underdog ", "MUSICANCER", "xxpesa", "Wesleyscarn", "Michael McRae", "Manfred ",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 427: expected statement.
+    "T" , "Dubois ClÃ©ment", "Nazarko", "matze2304952 ", "Hermitcrab", "Lexington", "WSX", "kepop", "Michael Helgerson", "jhoot", "Sergio Rodriguez", "xruk xruk",
+        ^
+
+File "game/tl/vietnamese/credits.rpy", line 433: expected statement.
+    "Perry Page" , "sam medina", "Srosh Rahimi", "Màu Xanh", "David Carroll", "Walter S Potter", "initiale ", "Ben Neff", "John B", "Daniel Manning", "Richard Wilson", "John Eliot",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 439: expected statement.
+    "Krit Pippin" , "Alxz", "Florid Wolf", "J S", "SneakyP3t3", "Moritz Bunkus", "Louis", "asljq sexy", "Bryan Morrison", "Arasis", "EidolonZ983", "xK1LLJ0Y77x",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 445: expected statement.
+    "Joseph R McLaughlin" , "Al Catani", "Ivo", "Rainer Fachet", "serveisky ", "Thomas Baum", "Jaxx", "jeloooo", "thibault collard", "Arrow", "Justin", "Maciej Å»eliszczak",
+                          ^
+
+File "game/tl/vietnamese/credits.rpy", line 451: expected statement.
+    "Logan Gray" , "Luc", "Lobo1707", "phdinfailure ", "Delyz", "John Stone", "ivano rossi", "S Bromley", "chuci0638", "Daniel", "Jonn Sturn", "Dale Helmer",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 457: expected statement.
+    "Robert Preville" , "Add_Identity ", "open", "Zertuul Sullivan", "jj", "Brian", "Jeff Looper", "Martin Brožek", "Ian Hutchinson", "Hal", "Tyrande", "DC",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 463: expected statement.
+    "Thomas Jones" , "TEAMU7", "adamada adamada", "Niels Hoehnelt", "Janiboy", "Rene Bordan", "Martin Kostenzer", "LaBjörn", "Kostas Xatziantonas", "Moreno ", "AirLoz ", "Saint",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 469: expected statement.
+    "Peter S" , "DJD1150", "Giovanni Parise", "HotRod1227", "Dee Bingo", "L1nk ", "Crazy Nilo", "Tom Katmai", "Warped872 ", "Maelific", "Roger Ruesch", "용일 문",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 475: expected statement.
+    "Gman" , "Bergeist", "Greg Peacock", "Kevin V", "Hdbobn", "TJ Reynolds", "Jumper101", "user_1", "Alexis Weeks", "Ghawk", "Conn", "Waldemar Mueller",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 481: expected statement.
+    "Cobalt" , "George E. Cabral", "Tim Jones", "costas fatseas", "Ulf", "Redthegreat", "平 党", "Choco Boom", "Andrew Norris", "Gary Leask", "James Valenzuela", "Yohan",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 487: expected statement.
+    "Adam Nowak" , "HoneyMonster", "Bharath Krishna", "Andreas Lichtenwald", "Alejandro avila", "selem!5261", "Iakov Rabinovich", "Alexis Migliaccio", "Povster", "Shakor ", "Anguisette ", "Stardust Overdrive",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 493: expected statement.
+    "Newbe163" , "Greensteel", "George", "Frank Krause", "exulien", "Vimesfun", "Reyanne", "Rabidcatpanda", "Patrick in Ohio", "Gareth", "Gavinn Treubig", "Sirus",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 499: expected statement.
+    "Loopy1" , "RM", "Antonio Novoselec", "Lunar", "Ryan Corrigan", "mike ", "Aleks JÃ¤ckel", "Arkay", "Pedro Marin", "Matt ", "Joakim ", "seth",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 505: expected statement.
+    "Johnny Hola" , "Slashkiller", "Kirby Veitch", "Mats Einlyng", "jay ", "stern", "Ji L", "Hektor Phrygia", "Paul Martins", "Heiko ThÃ¼ÃŸing", "Steff", "zombie7player_",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 511: expected statement.
+    "Simon Dempf" , "Devyiant ", "LarryJerry", "Whoremmander Shepard", "Danouloux", "HikariChan", "Royal", "Danny", "Bartosz H", "Roberto Zemeckis", "Peter Gasser", "Jean Wolfgang",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 517: expected statement.
+    "Dr.Krass" , "Markus Gottselig", "Andy Morris", "beowulf8866", "Wallace Harrington", "Warren Smith", "Richard C", "Koray ", "Patrick Kalkbrenner", "SimKw", "Kris Trout", "Nameless6968",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 523: expected statement.
+    "Alice Sissy" , "Cody", "illya", "Masters4455", "Brendhan O'Bryan", "Jack Grimstead", "Jesse Amico", "Pakorn Phukkam", "Gencay Sayın", "Götz Ullrich-Holtkamp", "Xambul", "John Doe",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 529: expected statement.
+    "Colin Danforth" , "Yassine Dln", "Stormblast", "Samuel", "Thomas Mattei", "GÃ¤nsehose", "Maggie", "Mirko Scire Risichella", "Bongsmokin123", "Jay", "Hyder .M", "CleM 30",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 535: expected statement.
+    "CyaTweek" , "Ryan StOnge", "Kris Skerning", "Seley Ethen", "Eliabe Moura", "STANLEY 231993", "Vertala", "Stiven Cifuentes", "Amador Ribas", "Daniel Armany", "Dario Frey", "Nicolas",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 541: expected statement.
+    "RiFu" , "Phoenix Wild", "Bone 531", "Stuart Priestley", "Lukman Iddrisu", "ssukel", "roger lopez", "schweinebake", "rabor", "Casper", "Mr.Xoul", "lori1975",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 547: expected statement.
+    "Thomas Fortier" , "Tom Pfuhl", "Lastname", "Юрец Немец", "Carpe13iem ", "Max1212", "Sontyp", "Joe H", "Jonathan Grisius", "TheMog", "Sascha Muenz", "saffet akhan",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 553: expected statement.
+    "Carlos SpicyWeiner" , "JajPow ", "Artur Moskal", "Desmond Suen", "Maddux Rhode", "Herr Nazekro", "chaosturner", "LadyBruxa", "Datadieb ", "Tony", "Aikjarto", "An Dang",
+                         ^
+
+File "game/tl/vietnamese/credits.rpy", line 559: expected statement.
+    "Chris" , "Blake Kelley", "dqh ", "Luis Fernandez", "Zachary Spear", "Nick Gunderson", "asfaroth ", "John... ", "George Mathis", "Marko Raspudic ", "IDAN AKIVA", "Legs ",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 565: expected statement.
+    "Marcel Toillie" , "Dave Hancock", "SpartanGuard", "Seekr34", "Jon-Jon Burnison", "Viki", "Uwe LautenschlÃ¤ger", "Diaochan", "Henry Stokes", "Christoffer Eriksson", "Ben Cordero", "Frank K.",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 571: expected statement.
+    "johnyy76589" , "Nuno Filipe", "laogu", "Alexander Best", "v", "Daryl Parker", "ulysse404", "Nate F.", "Ikhodi ", "TimeTraveler2k ", "Christopher ", "Leon Nippert",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 577: expected statement.
+    "Joe " , "TheZame ", "Andrew Z", "Stephen Pye", "Zsolt BorbÃ©ly", "Jakob Hahnefeld", "Pierre Paquin", "pete", "Adrian Monk", "Trauma47", "maHAra87", "Gauthier Daurat",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 583: expected statement.
+    "Periklis Stefopoulos" , "MakDaddy1968 ", "Old Fool", "Dark Sera", "Soupy", "Polter019116", "Nuttybong", "Jonah Smith", "Tim Ballam", "ron", "Mark", "Matthew Donaldson",
+                           ^
+
+File "game/tl/vietnamese/credits.rpy", line 589: expected statement.
+    "Andrew Smith" , "HAWK", "Sandy", "Darkdan", "Banakson", "Slawek ", "Kenxo", "Hangman", "Hofolf ", "Benjamin Groussin", "DJ ", "Lukáš Pečinka",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 595: expected statement.
+    "Unknown10522" , "Daniel", "Jhon Smith", "Phil Brereton", "Bruce Allen", "Gabriel", "Eduardo Castro", "JoÃ£o Pedro Costa Lima", "STIX", "J", "J ICE", "InvertedHope",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 601: expected statement.
+    "Jörg Brassel" , "Joseph H.", "Mulligan422 ", "Jake Gornall", "Richard Hartmann", "Dom ", "Ron Habasha", "Tuna XI", "Dwomutsiqsa", "nick cassell", "José Liendro", "patrick ",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 607: expected statement.
+    "Savage " , "fakemania ", "Veen ", "Tsubaki Subarashi", "MicroMidas", "Almdudler7", "Matt Smith", "Ikon ", "Andrea ", "markas parker", "keith holmgren", "Jeremy Davies",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 613: expected statement.
+    "Keenan Ploon" , "Naviask", "Ladoux367 ", "MIG", "lloo", "David Rickman", "Mike D", "MA00DA0", "Master01", "Zonj", "Bruno Costa", "Pappy Trappy",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 619: expected statement.
+    "Mike K" , "Marcinator187", "Damian", "Cuein Moonblade", "Kubix", "Adey", "Takashi", "MadGooz", "jubbiqueen", "brave_hamster_93706", "clem_29362", "junyi_18483",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 625: expected statement.
+    "Bertobald" , "Dan K", "Blue_Raptor", "Steven", "Logan Draper", "Grotto Clark", "Nirazul", "Wahlblar", "Corey Meredith", "Jay Blake", "Marc ", "NÃ¡ndor Kereki",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 631: expected statement.
+    "dahlbacka65" , "gaz", "Kang Hyunjin", "kevan", "Mats Holm", "BlueSea", "Grzegorz Madura", "Mark Davies", "ElekZik ", "Ray Anzalone", "geoaubrun", "hhcxzdff",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 637: expected statement.
+    "kbhatti86" , "Justin", "Kuba99 ", "mattez2010", "darknight766", "dreitastischx3", "Karl Nissing", "Benson Yablonski", "Walde", "TheBoyZ uchiha", "EvilSpawn1337", "PVP Maximo",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 643: expected statement.
+    "tankzyy " , "LAPM", "Gautam Raj Mode", "Adam Stenka", "David BARBAUD", "sebu", "NWW Gaming", "tkjdhsfakasufkv", "CaptainGeology", "danilka1337 ", "Universalarnymp", "solidrage23",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 649: expected statement.
+    "wc wiko" , "肆柒", "zotteltier_89104", "DJtheGreat", "crimsonshadowzn", "nanciebotwin", "HugoHackebein", "Pastabox", "Oliv", "Peter Pham", "Philip Böttcher", "Jeremie Malenfant",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 655: expected statement.
+    "Brandon Mckellop" , "Stephen Fish", "Tobser ", "Konjokita", "MoSeF", "Klaud Kl", "Satanik", "Chuan", "Franz Josef IV.", "Lukas", "Punk penguin", "MaxSteel",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 661: expected statement.
+    "GGbeejee" , "Alexis B", "Buxom Wench", "Jacob Clifford", "Snowball", "Luiz Henrique Leite", "OHG", "Peter Scott", "Bob Jones", "SJ", "kc", "Martin Karsten",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 667: expected statement.
+    "Shawn Zheng" , "Mark Anthony", "MrRattikarl", "Ajay Cornelissen", "belalugosi968", "Kamax", "Frédéric Choquet", "speedyg878", "derangeddawg1911", "rosetotoro", "zerocool44", "magio.",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 673: expected statement.
+    "Grant Jackson" , "Marco Miraglia", "Salut", "Dominik Lang", "Terry Kanouff", "wemeaux", "Alyssa", "Craig Daters", "Adamantis", "Hyperboom1248", "Jass", "Timo Auf Der BrÃ¼cken",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 679: expected statement.
+    "pakob" , "Groktar", "fervegetta", "ilkaraa", "kevin61225", "ed", "imperialglory", "rodeyjan8", "unnamed.29", "marcellus3492", "mi135", "Anke Settekorn",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 685: expected statement.
+    "VToxicLP jout" , "david boileve", "sashalag", "Philip", "ALEX ", "Goldy", "Curtis Allen", "Philip pecevich", "DW", "Zargon64", "SlowWaddle", "d00d",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 691: expected statement.
+    "zcarcrazy" , "Roger Henry", "Eric Phil", "shikikoya", "nico_the_dev", "sylvain7810", "fabio endo", "hooskerdues2679", "theatomika", "bibted_74312", "G", "Drew Herse",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 697: expected statement.
+    "nickbittt29" , "hotwhiskie", "groovyhat", "leo00779", "JJ", "Marshall", "Ez Pz", "Koci ", "Dyro", "Vvamp", "Robert DrakmÃ¥rden", "JRD",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 703: expected statement.
+    "Joe Marchese" , "Robert Bird", "Xe", "Stephane Saint-dizier", "Blacklight0425 ", "HollySnow", "Mister T", "Flekumin ", "Zoltan Szilagyi", "kkwai ", "Bacon_Sashimi", "Luchsi",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 709: expected statement.
+    "Bert McGert" , "Bob Ryan", "Lep Petrov", "Gerald Moser", "bob", "gabriel canella", "Gpyam", "Tenkov Daniil", "ODurdenO .", "John", "Henning Lange", "Carsten Enk",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 715: expected statement.
+    "am3n0r" , "nacka9873", "Mexica flea ", "TheBoozehound", "cert91", "Paltibus", "Yann Gilles", "Troy Sumrall", "Jack ", "Steevo ", "Bones Sir", "Opera",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 721: expected statement.
+    "Gahhus" , "rodthepizzaguy", "Kevin White", "Rocky Lucky", "feodorov", "jeff_wu", "JT", "AKKE BONO", "Gside420",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 727: expected statement.
+    "Winchester" , "Phantasia DeZign", "Knox", "Tom Do", "John Doe", "Ryuke ", "misjedam ", "Oliver Segelhorst", "steel", "Elijah Luna", "Haloblade", "Meserym ",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 733: expected statement.
+    "Nik" , "Nathan Bensink", "calldemq", "H E Kuis", "Ben Scott", "Wallaby Way", "Greg Safstrom", "Tar", "Ringo Lemke", "Phildog213", "Sean Randal", "RyMann88",
+          ^
+
+File "game/tl/vietnamese/credits.rpy", line 739: expected statement.
+    "nanananana" , "Tom Whitaker", "Alex Ferreira", "C9 Love~", "Logan Parker", "Duke-Tomasi", "Johan Eriksson", "Ezekiel Muñoz", "Paddy", "benjamin galzi", "kele59", "Kraftwerk",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 745: expected statement.
+    "Wulfgar Battlehammer" , "Roberto_Flanko", "Jareth", "flowerboi", "Joshua ", "Njc533", "LIONTV", "Hoops", "CloudyWater", "Timothy Gjerde", "Dangler", "pablo mazzitelli",
+                           ^
+
+File "game/tl/vietnamese/credits.rpy", line 751: expected statement.
+    "Bernd Peters" , "Kis Zsolt", "Marco Schick", "Alex", "S Saiyan Kratos !", "Дмитрий Ефимов", "Surya Gundavarapu", "Jacob McKinney", "James Peck", "TENSOBA", "Ryan Smith", "OneGamer ",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 757: expected statement.
+    "Jake" , "Benjamin Galzi", "mike ", "Kele Art", "Jonathan Helguera Padilla", "Spa Ma", "mikey", "victorykun3", "El_patron", "Дима Запорожко", "Sirio", "Nicholas Goldschmidt",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 763: expected statement.
+    "Fry0634" , "Zounma", "Michael B", "Nezaah", "ENamP", "Jonathan Heard", "JS1486", "pipixia", "nahmate8000", "hurpdrup", "DeathWolf110 ", "TofuuuMan",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 769: expected statement.
+    "Debjit Roy" , "Nero-Greywolf", "GAvJo ", "mike1245", "Odeloth Channel", "John D", "DJO DJO Entertainment", "Ree", "adrian hogue", "Pickle889", "IEight", "CryptoJohnny Fap",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 775: expected statement.
+    "Mr T" , "Twistedblue", "GunDaHar", "petteri vÃ¤lijeesiÃ¶", "raven ", "xCrxnchx", "Shaun Cline", "DemonicJack", "Cali_BearGaming", "Sin", "Dusty G", "BobbyBoucher ",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 781: expected statement.
+    "T3eX" , "dinjil fahlen", "mael", "ORARI", "Hendrik Brinkmann ", "Jason Foster", "Math778", "Chris Greiner", "hey1784", "Wolf", "R", "Andis",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 787: expected statement.
+    "Alrifht" , "MySugardaddy", "Charles Russell", "Nemesiz691", "James", "Vance ", "Tikoesq ", "Stevan PetroviÄ‡", "Mathieu Bouteillard", "Adrian12426", "1millionsupport ", "Ymrl",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 793: expected statement.
+    "Jason Westgate" , "Qwerty ", "S W", "pulpo", "Harry Woodward", "Marek Blaťák", "Marcel Löw", "Krieger San", "Michael r jenkins", "Magnus the Dankus", "Tyler Jelinek", "JB",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 799: expected statement.
+    "Robin Neumann" , "Jeremy Wall", "R-Type00", "Justin Wingard", "Wanted66", "JosephATeam", "Altion", "Fredrik Dahlbom", "mcazder", "Alexis Alvarado", "Chris Roberts", "Khal Lothbrok",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 805: expected statement.
+    "Xinq" , "Agent j", "gibbs88fin", "Tim Hossler", "omri kaufman", "SonOfaShepherd", "nm", "yourmamma", "Alex Taylor", "Johny Kingru ", "Budoni31 ", "Gurkenboy 690",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 811: expected statement.
+    "Davide Vince" , "DITGY", "Klaus Homberg", "ilukentiz", "Dheck", "Ozzyman649", "paksin689", "非 赖", "goodfw", "Lucas Starrk", "Double-checked", "睿謙 曾",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 817: expected statement.
+    "AlmostSatisfied" , "Robert Lee Schechter", "Alex ", "Dudedesh", "Donovan Reaves", "Medet", "david.lee.reignited", "Ty", "Travis Williams", "Anton Widmark", "Tariq Alamri", "Abomb",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 823: expected statement.
+    "TryHardDuster LP" , "gogusteel", "Nilas Falster Klitgaard", "Paweł Kowalik", "Trxth", "WiscoBoltz", "Jesus ", "Jeff", "AscensionBreast", "Alex", "Maggote", "Dreskell",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 829: expected statement.
+    "Osama Habib" , "Jon Doe", "Twenty Rose", "Mitch", "Anthony", "Xerion 135", "Ryan ", "John Good", "SIQUAL65", "SuperMaxize", "Christheman97", "john blake",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 835: expected statement.
+    "John Carter" , "Klaj XP", "Melih", "GiZmo", "gd_rex", "mymmo84", "Galaxy Dragon", "alex ", "TPB", "Pablo Benito", "Svante", "Sipher27",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 841: expected statement.
+    "bite987" , "Hatseflats ", "Nate", "Whofellnow", "ryan fisher", "Casey Dillon", "Soupy", "NFL Relll", "InfinityWolf", "Farys", "Psycoflame", "Mikail Kajtaz",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 847: expected statement.
+    "Paulo Portela" , "Logi Loopy", "Austin Hendrix", "Sp 500", "andrew fernando", "Ludwig van Driphoven", "Suspicious-Syke84", "Craig Henderson", "Nasko Angelov", "Claudio83", "Miguel Gonçalves", "HONBrClIF",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 853: expected statement.
+    "Ari B" , "Teeee", "Copernik", "MangoMadness", "PeepoHappy", "Tino H", "Alex2000 ", "Miroslav Svoboda", "Valerii", "xWhxR", "BadMoon", "CMAL",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 859: expected statement.
+    "Andy" , "Chris Gilmore", "Valebellinimerl", "MeisterFunhaus", "Russell Hill", "Jimmy j", "krstdmtv", "Benoît", "HaHaruto", "Максим Кравченко", "MR.Anderson", "Western158 ",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 865: expected statement.
+    "Mr. F" , "Carlos Cruz", "CheeseIon YT", "Slim Night", "Ryan Downes", "yrewy hirlal", "Floyd Carriaga", "Liam", "DeltaCon", "Mika", "Meffle 3D", "drizz786 ",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 871: expected statement.
+    "Jörg Hahn" , "Rick Arnold", "_DemonicWolf_", "Norman", "Malte Beyer", "Moriii ", "Алексей Новиков", "Nomquam", "Reizhel ", "Coolcool", "RavensOnIce", "Aaron Woodruff",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 877: expected statement.
+    "Austin LeGault" , "Bodo", "Chiffonn", "sonsuzluk", "xxggxx", "Tae ", "Lord Obsidian", "Catherine Rebecca", "sp4gh3t!", "Dave ", "David P", "Leonie",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 883: expected statement.
+    "Sebastian van HÃ¼lsen" , "Bar607 Channel", "Panko Domino", "Xuchu Wang", "danser", "red chomp", "Chris", "Andrea", "DramaCoach69", "Trey Dewderry", "RJ3792", "Nerd",
+                          ^
+
+File "game/tl/vietnamese/credits.rpy", line 889: expected statement.
+    "Theo Brux" , "Beduineq", "MIC MIC", "Vincent PichÃ©", "fiore guido", "dumme ganz", "Inzanos", "Dante", "Luca Mindum", "noko", "GyuSeok Sim", "Cameron Spence",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 895: expected statement.
+    "Rauson Clower" , "Harry Fuller", "Gerd Koch", "john", "Anon", "Benjamin Campbell", "Valentin", "Stormbringer", "Larry ", "Evil Evo 13", "R", "Andrew",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 901: expected statement.
+    "Kalle" , "jhonny pereira", "Christian Brake", "Catiiz", "kt", "Kevin C.", "Torsten Schmid", "Vagen Karrde", "Finn Anderson", "Chaz ", "Kyra Evans", "FLO",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 907: expected statement.
+    "Laurent Vinet" , "Gustavo Zamboni", "Shangrla Radio", "Nameless", "nicholas brown", "Roshan Vincent", "Crawla ", "Errol2001", "Negretec ", "c pie", "Too Bad", "Gondolor",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 913: expected statement.
+    "Михайло" , "Scott", "Josiah Doit", "Guti", "SL ", "Hmmm", "Michael G", "Beans", "Cameron Ryan", "Christopher Hunn", "MNL 22", "Drjoli",
+         ^
+
+File "game/tl/vietnamese/credits.rpy", line 919: expected statement.
+    "Deniz Koç" , "Wei Liu", "Seuche", "Arek Krull", "CosmicPanda", "Younglingslayer", "lollipo", "Big Albert", "Artem Pyataev", "é˜¿ç‘‹", "utiutiu", "BLACKHH ",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 925: expected statement.
+    "Lari" , "DadB0d1010", "Maixis", "Schnappz", "Jefe", "Oreo_Runner", "Brett Graber", "Kevwill ", "Alex", "FT OO", "S Band High Gain Antenna", "F",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 931: expected statement.
+    "Greg Pickering" , "Steven Hamlet", "Didub", "Casper Petersen", "Sur ", "Richárd Nagy", "Sean Gorze", "Coraxy", "Ostap Perebyinis", "Aura Y", "Kai Paul", "Bill Nye",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 937: expected statement.
+    "mirco hauser" , "PegsMericanLeg", "Paul R", "James", "BammItsTyler", "Geroge", "Damon W Russell", "Jerod Childs", "Fumble", "syncbad", "Croan", "Rush88",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 943: expected statement.
+    "LaGrosse Graine" , "pako", "disco ", "bobmop ", "7", "FreshWomen Pantsu Interactive", "Alliterationa", "ocb", "Davo", "Tiget", "Nick Farley", "Halliz",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 949: expected statement.
+    "Marcus Williams" , "Shibukai", "BombeFR ", "Sean Gatlin", "Rexiass", "JD", "Luda", "Neuneuu", "Dalton Linc Croxton", "Gamisu", "rm242", "HeavyMetal ",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 955: expected statement.
+    "Dragon Templar" , "123", "Enzo Carletti", "c0shy", "Raul Sicoe", "Abathur", "patrick hansen", "Web", "Camocarp16", "Cru", "Night Hunter", "Jorge Andres",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 961: expected statement.
+    "hoonidada" , "Hector ", "Alexander Ruiter", "Kiarah", "Guell", "Devo", "ala99", "Aaron Lamb", "Valmion ", "MFD755", "Normand Nadeau", "Nevslin",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 967: expected statement.
+    "Trevor Diefenbach" , "tahonatola ", "HOKIE822 ", "skywalker", "Harshil kocha", "Terrican", "Moumoulax_Hatif", "Valzor", "Theodore Harte", "Nate Steadman", "Sc4n", "Simi Makihele",
+                        ^
+
+File "game/tl/vietnamese/credits.rpy", line 973: expected statement.
+    "Jeff" , "aecije ", "Romain V.", "Andy", "FabledLocket ", "Jamey o Rich", "Leo Dupont", "Tomoceusz Katatiki", "John", "JP", "Luka Maglov", "AquaTVaude",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 979: expected statement.
+    "Salvatore " , "Cygnus", "SporadicSanity", "bob ", "Simon", "Baptiste Carle", "Isaac", "tariken", "s234", "royalpanda", "Matthew Cook", "Aj Whitacre",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 985: expected statement.
+    "Aaron Bratt" , "Bbplayer1320", "Stubs Mgee", "Porcupine", "Samuel", "Ghost Man", "Mart", "Liam Caetano", "JPM 343", "Anarazel l", "Craig Griffin", "McCain",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 991: expected statement.
+    "Rodde Boiii" , "Slaving Kelevra", "Shaun Dux", "Gomer Pyle", "Zac D", "Ed Sh", "Sofw -", "Richard Bartlett", "David", "jl", "Sheogorath", "dickcharcer",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 997: expected statement.
+    "Matt" , "Olasdw", "Randomdude", "Deckard17", "Thomas", "David Auton", "Damian SkÃ³rowski", "Joshua birk", "Brian L", "Abxjz", "MoreScorch", "海清 耿",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1003: expected statement.
+    "Spam Storage" , "D", "Lee Brewer", "Elijah", "Arod ", "Trumpdog ", "Bodo_XIII ", "Licks", "gvas", "Aravind Kurushev", "Hof", "drewbrownie",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 1009: expected statement.
+    "Chuchumo" , "Khordin", "lnickersonable", "Jordan Crandell", "Arjun ", "Jannik", "Michael Pagan", "Rose Winters", "الاستراحة قروب", "Leaving...", "Sean Tuttle", "Joe M",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1015: expected statement.
+    "jive" , "Martin ", "bobkaf", "Hannoiha", "Oleg Homov", "Dubvhero", "D_O", "Jonny Stinson", "Henrik", "Luis Barbalho", "Gardela", "Fauli56",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1021: expected statement.
+    "Mozart Armstrong" , "john ", "Max ", "Guesh Fujiwara", "Jenya Ostashevskiy", "Rasperoger", "Maxalon Giesinger", "Massimiliano Caputi", "XAVIER SF", "Neil McLennan", "Idek", "Shady",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 1027: expected statement.
+    "Bjerg" , "Matteo ", "Kevin Ellison", "Bruce", "bt", "Rav3n007", "DocLore ", "Carpe Brewem", "iAtticus ", "Christian T", "Oogama", "Alex",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1033: expected statement.
+    "FLO_78" , "Rob ", "Igor GraÄner", "dkbacon", "Kolweren K", "Toto ", "Steven Mak", "Unknow", "Abodor", "Sebastian", "Andreas Kreidler", "Tato",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1039: expected statement.
+    "Jorge Rojas" , "æŸæ¨¹ é»ƒ", "Dispeace ", "JY", "Monkas", "nat chubb", "Samuel .Gilbert", "천국 이", "Jeanfranco Salazar Parodi", "Ettenra", "Robert McFadden", "Justin Simpson",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1045: expected statement.
+    "Trevor" , "Andrew Hamilton", "Jon D Englert", "TJ Torn", "Shlong383 ", "Nick Culbertson", "Machoman598", "Rice ", "The Phunkiest Droid", "bdtd", "Tudor - Bogdan Munteanu", "Jake 101",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1051: expected statement.
+    "salehejm" , "Marco", "Cassidy Mauvelous", "Dan ", "Meister Fischer", "dudley ", "Bozo", "Hecksagone", "bianconero1914", "stephan", "MonopolyMan", "Caleb White",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1057: expected statement.
+    "Miguel Suarez" , "Kevin CC", "Helge Berås", "Casual", "gman3359", "Derrima", "Dangtongi", "Unit08 ", "Stefam", "mjr10", "HJam", "#0Null ",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 1063: expected statement.
+    "chef elbono" , "Lucis DeGrey", "Jason ", "Raza", "Thalion S01", "Jesse Ross", "Chris", "Xena", "Lost Porkchop", "KingBeans", "Mauricio Jacob", "Jan VajÄner",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1069: expected statement.
+    "Antony Spyrogiannoulas" , "Harm B", "Samet Karatepe", "Nakatomi_Cowboy ", "Julien Durand", "8888", "Dakyrrass ", "AlCapone", "Moreno", "Michal ", "Klaas wt", "MitchellMee",
+                             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1075: expected statement.
+    "BlackViper_" , "dafran", "pepe banda", "Justyn M", "Christian Svensson", "James Walpole", "Gratien Dupuy", "Felix", "Michael Farrenden ", "porkchop", "carlos fuentes", "CK18",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1081: expected statement.
+    "camp10" , "David Guichard", "lurz", "DrogoRedsmith ", "Demetos", "Austin Nauman", "OG MONSTER 420", "John Huck", "Jean-Michel Boily", "rudy ", "Zeppelin Nguyen", "patate plouf",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1087: expected statement.
+    "kayu kwan" , "Scoog", "getinge1", "Dickellroy ", "Zuuukusta", "Draco", "Jude bell", "Jens Herbel", "YungDaggerdick", "Muthias", "dave8x ", "Michael Josten",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1093: expected statement.
+    "Ter" , "Matt Frost", "Clemens Dominikowsky", "Mikethemand", "RagingSavi ", "DanielleW", "lostandnotfound", "Florian Kaiser", "Slava", "Zorky88 ", "mhlp hmlp", "Hannes Langner",
+          ^
+
+File "game/tl/vietnamese/credits.rpy", line 1099: expected statement.
+    "Ark Ranger" , "zminii", "gh0st", "Joseph Puckett", "Gregory. druthiau", "Keith Schlumbrecht", "Riley Shayne Howe", "yzic pxx", "Marcos Oliva", "Fallen Legend", "Kamil Józefiak", "Brandon Hooke",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1105: expected statement.
+    "Nicholas " , "Sean Warren", "Marius SchÃ¼tte", "2numb ", "cwellington ", "Riarry Snorg", "Oliver Fischer", "Sascha ", "Emirhan ", "Kakuro", "米椒团子", "john.. 30",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1111: expected statement.
+    "LB" , "altoid", "HeyitsRamon ", "Oliver Corleis", "Kaiko", "Adam P", "James Zmijewski", "R34D ", "Adrian dominguez", "Eric Marier", "Jay", "ddl",
+         ^
+
+File "game/tl/vietnamese/credits.rpy", line 1117: expected statement.
+    "HN28" , "Matheus MODRO", "Lameth Messias", "Neptyn", "Skism88", "craig Clarke", "Aikaz", "AC", "Mats", "vwveep22", "Christophe Souza", "Ilja Voorsmit",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1123: expected statement.
+    "Yoadar 7" , "Samuel Breuillet", "Ramsex2", "DIEGO ASSUNCAO JOAQUIM", "Connor Dorey", "beto1234", "Hayden Smith", "Bullee", "Thibaut Durieux", "ME ", "Charly", "2NAY-S",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1129: expected statement.
+    "Michel " , "Bad Rabbit", "Quentin Soulat", "0LES3N ", "dah ACID", "Andrew Vartabedian", "daneljohnn", "Bryan Blanchard", "Daniel Siwek", "Patrick", "Robin Georges-Foray", "Redoubt27",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1135: expected statement.
+    "Noah Flagg" , "Sesception", "CareBearII", "Tiago Ferreira", "roman", "Piet MÃ¼ller", "Markus Platzer", "stephanie", "Chof Chof", "Lameryyy", "NotPhased", "Max Singer",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1141: expected statement.
+    "Lukas" , "Heng Liu", "Nemo", "jjyjo", "CuckoldAlex1000", "Zachary Poole", "Stoya", "ParkaJack", "AntiTyp", "Wille Eliasson", "remy remy", "Mentkowski",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1147: expected statement.
+    "Gee" , "Max Well", "Ponkey", "Tobfire", "ReverendT", "Backwater", "Noel", "Omega977", "SukiTheSuci", "Cscope", "Joe ", "GreyGhost",
+          ^
+
+File "game/tl/vietnamese/credits.rpy", line 1153: expected statement.
+    "zaness" , "Roberto Vasilescu", "Anatoliy", "Nolan002", "MM", "richard jarl", "Batjac", "beelake", "Simon Rendbæk Madsen", "metaPCP", "Julian Sanchez", "Sid",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1159: expected statement.
+    "Sev1212123" , "Jared Gandy", "Lvoon", "Shochraos ", "Blake Dubin", "Gabriel Gutierrez", "Rob Baker", "Damien1472", "Kiwi", "Notsukau", "Stephanie S", "Tiddle",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1165: expected statement.
+    "Joe Torrenga" , "Schrogrim", "AM", "Dmitriy Kachko", "Альберт Смулаковский,", "Sgt Me Gusta", "CaliNDian", "Mitch", "Ice", "Bill Edwards", "Jacobi", "advitamdenovo",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 1171: expected statement.
+    "RedLaFerrari" , "Shin Noda", "Kenarian", "Bbb", "Chuck", "Ludvig van Betoven", "Reverend Vegas & Miss Mischief", "Felix_m", "N4", "Tro", "Kakakula", "Phoeps",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 1177: expected statement.
+    "RK20" , "Thomas Müller", "Jerk", "KILLER HEVI", "novemberjoker14", "Rock Dark", "Dann PD", "bcrick ", "warrior247", "Hahavs Vdbsj", "Tomek", "Privolion ",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1183: expected statement.
+    "Hidan" , "Jun Waffle", "Randy ", "s", "KnotClement", "Fabi", "Douglas Barbosa", "Escape Jr", "Xioely", "KrazyLilSquid", "SeanoftheDead ", "Julien Baudin",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1189: expected statement.
+    "John" , "Gaetan Gay", "Joshy", "Dave", "A", "xCooler2 ", "PotatoG", "B&S", "Stefan ", "NEKOPARA", "Axel Lefrere", "Ãkos Szarka",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1195: expected statement.
+    "Tatobem" , "Benjamin Seay", "dejan blagoicevic", "chicago", "North", "Liam Weale", "Johnny Jonsson", "HH", "Nuat Aku", "Toonnistarks ", "guitar dan", "blls ixif",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1201: expected statement.
+    "Rasmus Gjesdal" , "PetMi", "HB", "finster3 ", "Drew DeSchepper", "Moto Tank", "KaiserLord ", "Yannick Schuckert", "Denjus", "Klaas ", "cipolla61", "FerVlucht ",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 1207: expected statement.
+    "n00ne" , "Maurice2907y", "Breakzz", "Kuba", "LeGroLudo", "floskekun .", "DJ", "Double-O", "Alex Sarkisov", "Rune", "jared", "Alex D",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1213: expected statement.
+    "Florian Hödtke" , "Kacper Filipowicz", "Sti2l", "DatGuffel ", "Yılmaz efe Altındağ", "Zuza Pp", "Teehee Ty", "David Maruani", "Melom", "tianqi yu", "Novx5", "Mandro",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 1219: expected statement.
+    "Brooksy" , "Thin Zaemsky ", "Justin Robson", "YunoG ", "Joe", "WarTefact", "Anthony Thomas", "Ralph Roessner", "James", "dino12345", "Юра Гудз", "Aleks Gorski",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1225: expected statement.
+    "Miszczu16" , "mathieu bouchard", "Brad cooper", "DJ", "K0nter Bernd", "Brett_man ", "Dantetion", "Shinji Ikari", "Jay ", "Steve", "Joseph Hiroshi", "Robert",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1231: expected statement.
+    "Svetliaka92" , "Chrisgman 87", "Gramaton", "Jesse", "Harald Menke", "GiTuvix", "tom", "Hendrik Hirsch", "Ynitmit", "Cliff L", "emir tunç", "Pitcherjak ",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1237: expected statement.
+    "Tibag Tibag" , "Richard Ng", "Dery ", "John Hough", "Kaylie Jayne", "Greg Box", "Joe D", "Eliott Pingard", "Rob ", "Dadum", "Ethan Gaytan", "Wolf",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1243: expected statement.
+    "death_the_kid123 " , "Danielle Dayton", "Lucas Barton", "ahura", "_Jenn.D", "Christian Ho", "MR05", "evan", "adam", "Chitiphat Buranadilok", "cric man", "Bence Benedek",
+                        ^
+
+File "game/tl/vietnamese/credits.rpy", line 1249: expected statement.
+    "Etienne Boucinha" , "James Gelston", "Karl Knight", "hghv", "FelicityCn", "Hasan Åžen", "Ravi Sash", "YIFEI YU", "Vanilla ", "Robert Firouzi", "DEB ", "sk47",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 1255: expected statement.
+    "Explorer" , "Carlos ", "M1H2E9 ", "Ben83", "Marco Manoppo", "Lars", "Jamie McAdam", "torwinvan", "Colletti", "Juan C Gonzalez", "Alec Harvey", "Shini",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1261: expected statement.
+    "Potato" , "Cokalasâ€™ games", "Julian Uhlich", "Skye", "LastDino", "nope Mcgee", "Mitchell Blessinger", "Mike Maguire", "Roki Likash1", "noob", "Schmaeh", "Neurotoxicosis",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1267: expected statement.
+    "Sylwester Pawlak" , "Ocsortam", "Abishek Singh", "chaffeek ", "Joshua Thurlow", "TTGBlacky", "Rudolf SÃ¼ss", "Julian Moreno-Johns", "RM", "Daniel Greene", "temptation", "NewRO",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 1273: expected statement.
+    "Berke SÃ¼sler" , "Pa", "john", "Ankit Ratnam", "Patarachak Wu", "ryan sennewald", "Yashen Karunarathna", "not_4ki", "Isaac", "DrorIII ", "DARKHUNTER12X ", "Muck Eastwood",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1279: expected statement.
+    "Matt Standing" , "Robzy", "Kameron Rockwell", "Ростислав Полонський", "Nand Patel", "Hciryam", "Tony Lynch", "Lukser", "David", "Charles Duval", "Valerio Di Lorenzo", "Rene Emm",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 1285: expected statement.
+    "Erik" , "Mik", "John Smith", "Tipara ", "Narzil54", "Yoh", "Gilberto Paez", "bill", "einar sigurÃ°sson", "Zero ", "Viktor666", "ELIX IMBER",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1291: expected statement.
+    "Brandon" , "Thomas Summers", "Tobias", "Juan Diego Reyes", "jess pedersen", "Luca Rullo", "Artemis700", "Alcatrazz13 ", "Matthias_B", "Jan-Philipp Christoph", "Observatoorium", "Dexter Johnstone",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1297: expected statement.
+    "MenomWoW" , "Rassis", "flokis_ werkstatt", "The Arked", "glhf12345 ", "Max Mcree", "ÐœÐ¸ÐºÐ¾Ð»Ð°", "Robert Smith", "SmugLife", "Simon", "Panzer", "WhoAmI",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1303: expected statement.
+    "curt david tiglao" , "Frederik Mortensen", "John 7", "1069Fendt", "Saaka", "Alan Clark", "Tom Owen", "dee", "Jaren Melichar", "B", "Miguel Alvarado", "Whsh Hwhwhw",
+                        ^
+
+File "game/tl/vietnamese/credits.rpy", line 1309: expected statement.
+    "Drizzle" , "Raffaele Cortese", "eric reckert", "Capwook1e", "hysot", "StiHarald", "sasuban", "Jack Ledger", "Hauke", "cptnpudding", "Deflubb789", "Borkfinger",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1315: expected statement.
+    "Coke" , "trikedik", "Tim Peters", "PixelFlynt", "atakan apy", "LondonBaby", "Spam", "Devil", "Zlayson", "I7Dubstep ", "Steven Santos", "kk47",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1321: expected statement.
+    "Sharkey " , "Tony Bumm", "Rainer Gothe", "Aksel F", "guillaume mounoussamy", "Lema", "Marcel Ichwarsnicht", "Babybomba", "Christian Hogg", "Ismar Zjakic", "Pierluc Frechette", "HaaszRudolf",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1327: expected statement.
+    "Brad Moore" , "Ziedonis Brediks", "arnaud Beziat", "Tanner ", "Matthew", "Tone", "Neybale TH", "MassiveMark4921", "李浩然", "Jackson Bybee", "Marinho", "Mahbeat",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1333: expected statement.
+    "Dehkia" , "CHIKENDORF", "Henri Viellard", "edyy", "Alex", "Momo2410", "ahmad jasem", "Old Man", "EroT", "Sofia Hansen", "Mark Davies", "Patrick ",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1339: expected statement.
+    "Fowlol" , "Veecky De Luna Fury", "Xostra", "Hirschmann Markus", "Buddy Falck", "Blackice ", "Zeximus ", "Watcher011", "Bohn Van", "Tradater ", "None300", "methad",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1345: expected statement.
+    "Donald Sprague" , "CloverdaleJom", "Clyve Barrow", "Richard A Budihas", "zhiaiqiancangnan", "Doglopez ", "Matthew Cottrell", "John Odom", "thomas green", "Vitalwastaken", "Shamus MCDonough", "Daryl D. Vorpahl",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 1351: expected statement.
+    "Erika Ramos" , "Battosai230 ", "Curtis Willet", "Chandra's Fanbase", "Lars Ehmann", "Mark Moosman", "Tamer Taha", "bechet vincent", "Spijkie", "Liam", "LOIC CEVAER", "Wakkie Plays",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1357: expected statement.
+    "BigSoop6868" , "Logan Hamilton", "Jim Crose", "Shadow Saotome", "Bob", "Cody Baker", "luna Amb", "Gandohar Mandrack", "Chris Redfield", "Mr. Galactic", "Logan Hart", "MM",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1363: expected statement.
+    "Rex Chen" , "its_kountry ", "Arren", "Ryan Mcleish", "leo", "Vu", "Aneel Nijjar", "boba", "Jerome Navarro", "Say. e", "JJOIII", "Marc Jaquiery",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1369: expected statement.
+    "Frinment" , "Sclount554", "Sean Moore", "James molony", "Parker", "A_bipolarPanda ", "Azrial", "Wasspu", "jert14", "cri1stina", "Raphael Pirard", "Matthew Stanco",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1375: expected statement.
+    "Bon Jovi" , "Brandon ", "Alfredo Padilla", "jose Martinez", "john p", "Jack M", "Yakup yÄ±lmaz ", "Gary Schultz", "Terra", "The clean Mister", "DaitenShi ", "Hunterr",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1381: expected statement.
+    "Jesse" , "Peyton", "antho iacona", "Marcel GÃ³rniak", "Charles Faubion", "dreadnaut981", "Zheka Shevchenko", "lu", "Christopher Heer", "JimmySwell", "Jarret Smith", "Elijah DD",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1387: expected statement.
+    "Mendes" , "冠瑋 陳", "Stefan Birner", "Koalalump", "hardware Le", "Silent", "Sechsfaser", "John Lutes", "Rolgar", "cebe ", "Christophe Viron", "Rainorth",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1393: expected statement.
+    "Crowolf84 " , "Ntoy004", "d0zz1", "ExuberantRPM", "realin", "Lilsue", "Erlend Stokke", "Metehan Ödekbaş", "Jrvjose2", "Derxi", "Brad", "Kevin Velez",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1399: expected statement.
+    "Javelin" , "priap ", "William Duong", "S W", "Spezda", "†.:FLATLINE:.†", "David Cobos", "moris ", "Nero", "King0051", "Sandro Ziemdorf", "Cadixo",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1405: expected statement.
+    "ilthan" , "Kipkayle ", "Chanbag", "Earl Tower", "jorbalgu", "Bo Otto", "Xav ", "hitboy", "Elaphe", "funios ", "Julian Pierino", "DocWho",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1411: expected statement.
+    "CodAddiction1998" , "Tskxe ", "Chepchik", "Big Jimmy Slade", "Caleb Elkins", "Kapollox", "Kek Tech", "CuriousCasey", "Stroker McGee", "mike ", "B", "SuperNovice ",
+                       ^
+
+File "game/tl/vietnamese/credits.rpy", line 1417: expected statement.
+    "Nap_77 " , "Soggychipsss", "Anibal Ajche", "Dodo", "Roeus", "Moki21", "Mak5025", "Alex The Red", "Drake8", "Switchray ", "Aj ", "lodonini",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1423: expected statement.
+    "Марян Павлишак" , "Pepe the Penguin", "Steve Shirey", "Th3Dud3", "Astral Joker", "Carmine Cosentino", "Haneia", "長峰 吳", "Parker D Wischropp", "psy0nic ", "Tedgaming", "expanz sh",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1429: expected statement.
+    "jordanabala" , "Dhsbs djsbshw", "Jonah ", "Cedryk", "monkaroo", "Sportsfreak", "Jamin Ghir", "Fbn Hrdrs", "Luzios", "Tim Haase", "Bootcolonel ", "Maxime Jacopin",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1435: expected statement.
+    "Michaela Taege" , "David Medina Jimenez", "Runn ", "Goghed", "Mausman ", "Meowmeow2020", "Zook", "rewker", "MasterRPG", "enrico veldhuijsen", "Gerald Kellner", "Alex Wilson",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 1441: expected statement.
+    "snaxxe" , "Alan Giorgi", "Horschti", "Nadine", "gorylek198 ", "nathgthan ", "Felix", "mk3456", "Er1c", "Ben", "Paul Popaul", "JuicyMechanic",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1447: expected statement.
+    "Tox" , "clement Descat", "Nomi ", "Khorilo", "Andre", "Gabriel Tan", "MjKIng", "nassim ajniah", "Conor Hewitson", "Batu han", "Linus Kiefer", "Mariana Lopes",
+          ^
+
+File "game/tl/vietnamese/credits.rpy", line 1453: expected statement.
+    "Bengt1212" , "tarsbak ", "Kiku", "SebastiÃ¡n", "Greg Connolly", "Femi312", "Viiniminni", "Gauner", "Dominik", "CadyC", "indigo", "Justyn ",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1459: expected statement.
+    "g" , "RK1968 ", "NLT fan", "Wmmr ", "Caron Butler", "Totalmugg", "Spinffy", "Gors Tige", "vwkeller", "Tarak Ganesh", "Nicohutch", "Maxxdabu",
+        ^
+
+File "game/tl/vietnamese/credits.rpy", line 1465: expected statement.
+    "boarder90" , "Martin Matrigez", "kenzie ray", "Marshall", "Austin", "UnDeAdRonin187", "Raik ", "Mike", "Sistine Fibel", "N0p3IamNot", "gregory parlascino", "Skankhunt42",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1471: expected statement.
+    "Josh Reid" , "WhakyM", "Guunga", "R15K", "Panama Pappers", "Knick Nick", "Toupsen", "Izumi105", "ysxyrkgwby", "Peter Inspirescu", "Денис Бекиров", "Callum",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1477: expected statement.
+    "ArturMorgan00" , "Giulio Amore", "Xavi", "Pinky", "Josh Nyla", "carsten757", "shaun", "Skaizy ", "Zfff", "Dwayne ", "Daniel Velasco", "Lulu58",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 1483: expected statement.
+    "DL6" , "Brent Jones", "coy block", "InjuredWafflez ", "drew ", "Q1", "RustyLuv", "Armin ", "Mason ", "Emil Roos", "KingMann", "freddy jap",
+          ^
+
+File "game/tl/vietnamese/credits.rpy", line 1489: expected statement.
+    "sparkyscott88 " , "Kain", "Fabian Castellanos", "Hans Hao", "thechilliest", "Hotdog", "davai", "Fermat2023", "luis alvarado", "Frank Cannon", "Darkstar", "Jason",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 1495: expected statement.
+    "Neil Calvin" , "Chili", "RUBBERDUCKIE", "Christian Mueller", "vladimir hernandez avila", "Andrew Hines", "Alex Lipscomb", "Test Admin", "Kronkie ", "Kesh1967", "Sean Madkins", "Dylan Bruton",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1501: expected statement.
+    "Serhan Asad" , "Moivin", "Dan Wheeler", "MrDoom12 ", "Cole Auker", "N", "Jack Wardell", "Bob Yo", "Jeroen Leeuwestein", "comeback", "Andrew", "LeBigTip",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1507: expected statement.
+    "RITTER Matthias" , "islam tÃ¼rmÃ¼ÅŸ", "Nick M", "Bubbles", "LETSgo", "Okan Coşkunpınar", "Henryyy", "Muss Kurr", "Omega", "Heejong Kim", "Alessio Consoli", "idan akiva",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 1513: expected statement.
+    "Joe Casey" , "Curtis ", "Timecraft", "Nate", "Maestro06069", "Maurits Holdijk", "Dplace", "Martin Sylent", "Toni MuÃ±oz", "Aaron Klassen", "Vincent ", "james",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1519: expected statement.
+    "Alessandro" , "Schraubenzieher", "dkev", "tony hernandez ", "ShadowAlf ", "Brad", "Liart", "Silas Maurer", "Thatguy overtherepostingthings", "Annik Coulombe", "Justin Croitor", "Korrupt",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1525: expected statement.
+    "Dante" , "Noksvill", "Big Mas", "The dude", "Ragnar Lothbrok", "Agustin Loza", "Levon Keshishoghlyan", "Tyler Kennet", "nick", "Thicky Shrek269", "Xoo Coo", "Kevth",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1531: expected statement.
+    "Jon Holand" , "froggyjoseph", "Alex Devlin", "Stumpy Peters", "Hokgen", "Kevin Thomas", "HK K", "HB Esports", "Sol", "Broll", "Faruk", "Nicolas Boisgibault",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1537: expected statement.
+    "Seadragon" , "WAG", "Mick", "shiro nippu", "Sparkly", "Mikey Royal", "Acer", "Ole Petersen", "Grump Gaming", "Olive Jim", "Jo H", "John Jenssen",
+                ^
+
+File "game/tl/vietnamese/credits.rpy", line 1543: expected statement.
+    "ShotInTheDark" , "Marzipan", "David Demiam", "Faraj Alshammeri", "Carlos Salazar", "Andrew Muir", "kusnierz", "Plankton", "Patrick ", "DarkFyre", "Boing84", "Jan D",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 1549: expected statement.
+    "Mark LaPlante" , "Conde", "X xXx", "RatsyFo", "Niacht", "BostonD701", "Jose Marti", "Husut", "Thomas Daugaard Wilhelmsen", "Ruben Alcon", "Kássio", "Lito Ramsey",
+                    ^
+
+File "game/tl/vietnamese/credits.rpy", line 1555: expected statement.
+    "Beasty77" , "Iideas Lah", "demonfighter29", "Der John", "POL", "Davide Lauretta", "jayD", "BigScrub", "Jacol pacol", "Public Joe", "m wags", "Ace001",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1561: expected statement.
+    "Vahe Kirakosyan" , "Aldo Iacovino", "Zedico", "Rudykit", "ZaferiX", "DSM", "Dugmic Dugmic", "Ilias Man", "Leandros Bauer", "Mr. S", "Slater", "Yang",
+                      ^
+
+File "game/tl/vietnamese/credits.rpy", line 1567: expected statement.
+    "Davo" , "Gary", "Marlon romero", "Firebird4477", "Recon4R", "Garythesnail", "Cristian Medrano", "Stephen", "Nami-Bae", "Brandon Valentin", "Muck", "GÃ¶tzemÃ¤n",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1573: expected statement.
+    "Francisco Morales" , "Joshua Fisher", "Jay", "Mdevkun", "Judson Flanders", "Sob", "Josafat Correa", "Nuke", "David W", "Kira Ren", "Madison Elam", "Innitchase",
+                        ^
+
+File "game/tl/vietnamese/credits.rpy", line 1579: expected statement.
+    "Sierra" , "James Knapp", "Liles11", "GrumpyCanuck 64", "Eddi ", "Silent", "snarleyow", "péter e", "lolwow777", "bjarte haugsland", "deeveri", "sim",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1585: expected statement.
+    "HEBANszc" , "Doen ", "Max T", "Vince", "J23G3R", "Ryder12", "fafa sansan", "Ernest Kwapisz", "Kain ", "Willayfiddle ", "Martin Darin", "Daniel",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1591: expected statement.
+    "Redcat" , "Phyo Thant Kyaw", "Wei Yeh", "John", "Abdul ", "Zoopedia ", "Nicetry HS", "jose rodriguez", "mark", "Just for fun", "Madigan", "Wingingvoice",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1597: expected statement.
+    "Csi2k Cigi" , "Mathias Eriksen", "Chewy", "esther ", "Rafael Bastos", "carlos", "yahu33", "Washie", "james stone", "Bipin Bhattarai", "Sengirvampire ", "Christopher Crayven",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1603: expected statement.
+    "Paul Amy" , "Stephen W", "Lucifer95", "dess ", "Raphael Dupouy", "Babadook", "victor valdes", "Geffrey Thompson", "William Dexter", "jules thomas", "Emily", "C A m",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1609: expected statement.
+    "Coster" , "Lane172909@", "xobiwan", "Sylvester Grogan", "Daniel Fachmann", "Nawek95", "joshuaj", "Anders Ã…berg", "Kassidy Fisher", "Rakanji", "Marek", "Heiko KÃ¶cher",
+             ^
+
+File "game/tl/vietnamese/credits.rpy", line 1615: expected statement.
+    "Michael Day" , "Blacklink", "Maxime Thorez", "Duncarj", "Alexander Meyer", "HyperPancham", "Hotteblau", "Skellard", "Marco Cavalcante", "Madmax2310", "Venn", "Lorenzo Asprea",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1621: expected statement.
+    "Fabi " , "Florian Meyer", "Himitsu ", "Alexander Zicker", "Michalis Skylakos", "Ryan", "Tim Knauer", "Felix Hubert", "Neick", "zTribalX", "Luca Vogel", "Daniel ",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1627: expected statement.
+    "Martin Munro" , "Atom", "Jim Bob", "Duncan", "Damaggo", "Andi", "Mario Andreas Seitter", "Sam", "Jaq", "Owl_God", "jpani", "xZombeQ",
+                   ^
+
+File "game/tl/vietnamese/credits.rpy", line 1633: expected statement.
+    "Naimanstar" , "Flashofdawn ", "obrother97 ", "Mark", "Imababymegx", "Marco Schwarz", "Archy Arcanine", "Jesus Torres", "Kak Deg", "Sean", "Cjw20025", "Trippyjesis780",
+                 ^
+
+File "game/tl/vietnamese/credits.rpy", line 1639: expected statement.
+    "SGo" , "DracosMagnus", "vyl5264", "Karol63", "Jan Frode Mellesdal", "Terence", "SgtMcGunnery", "Noot", "danny k", "Lexx", "ypsotl245", "Joe Steve",
+          ^
+
+File "game/tl/vietnamese/credits.rpy", line 1645: expected statement.
+    "Giray ışık" , "Shenshen", "Tamayr", "M. Olsen", "kitram", "Felipe Souza", "Luiragon", "Manuel Rodriguez", "mauro85 sava", "Varant Papakhian", "Jakob Riegler", "Joe",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1651: expected statement.
+    "Krzysztof Staszak" , "Lukas Wagner", "Iseniell", "volker steinhuebel", "Heiko Wöhleking", "Emma", "Dent", "T M", "nash", "Dr. Bob 420", "mibe", "OTHER STAR",
+                        ^
+
+File "game/tl/vietnamese/credits.rpy", line 1657: expected statement.
+    "Atra" , "Nacho Rodriguez", "Javier Rodríguez", "Snallus", "Rinus ", "Skyjoiner", "Abel Vieyra", "Christoph Leonhardt", "Aarron Da silva", "Alweirdyank", "J0ggl", "Hugo",
+           ^
+
+File "game/tl/vietnamese/credits.rpy", line 1663: expected statement.
+    "Aaron" , "nuqqur", "Stromper", "Tomi Reinikainen", "Utochi", "Albert Bailo Garcìa", "Yohan Touzelet", "Reapz", "Cheik0", "Weedy", "dreee4545", "Steven Meijer",
+            ^
+
+File "game/tl/vietnamese/credits.rpy", line 1669: expected statement.
+    "Veikko Pajunen" , "Justin Scott Blake", "Magic Mike", "Quentin Avedissian", "Max Bittermann", "Filip Urban", "Alessandro Bonfante", "kingdickielp", "lolidoli", "J", "Tipsi", "rostyk nykyporets",
+                     ^
+
+File "game/tl/vietnamese/credits.rpy", line 1675: expected statement.
+    "Martin O" , "Erick Ramirez", "ZaynTang", "Fenasi", "Sébastien Herbert", "Alberto Antonelli", "Fabian99777", "Obiwan164", "Sonriser", "Yikun Yang", "俊成 何", "neosdragos",
+               ^
+
+File "game/tl/vietnamese/credits.rpy", line 1681: expected statement.
+    "Arne Plenge" , "gareth smith", "Lukas", "livery6", "Frank Lorr", "deivize", "Steven", "Mac", "Joe Duncan", "Jayme Vinckler", "Max Mustermann", "Tor Høibraaten",
+                  ^
+
+File "game/tl/vietnamese/credits.rpy", line 1687: expected statement.
+    "Alrrett" , "Blake Masters", "fragmaster", "pepoye", "Woutiiee", "truerty", "Cod-Moros", "Andrey Garmash", "Tiger2003", "jutul", "TugaPastel", "MadPatRising",
+              ^
+
+File "game/tl/vietnamese/credits.rpy", line 1693: expected statement.
+    "Xyz1234" , "Wyatt Matene", "GriesGamer", "Joseph Milano", "Shane ", "mlampe86",
+              ^
+
+File "game/tl/vietnamese/gallery.rpy", line 7: expected statement.
+    "exhibitionism_e5_replay" : _("Finish 'Artistic Sensibilities' and check iSpy."),
+                              ^
+
+File "game/tl/vietnamese/gallery.rpy", line 13: expected statement.
+    "school_s24" : _("Finish 'Artistic Sensibilities' and attend class."),
+                 ^
+
+File "game/tl/vietnamese/gallery.rpy", line 19: expected statement.
+    "school_s25_replay_rivalry" : _("Finish 'Group Assignment' and go see your rival, Madison."),
+                                ^
+
+File "game/tl/vietnamese/gallery.rpy", line 25: expected statement.
+    "school_s25_replay_friendly" : _("Finish 'Group Assignment' and go see your friend, Madison."),
+                                 ^
+
+File "game/tl/vietnamese/gallery.rpy", line 31: expected statement.
+    "richard_r9" : _("Buy 'Naughty Maid' outfit and go to your cleaning gig."),
+                 ^
+
+File "game/tl/vietnamese/gallery.rpy", line 37: expected statement.
+    "neighbour_n14_replay" : _("Finish 'You can Bet on That' and take a scroll in the Park."),
+                           ^
+
+File "game/tl/vietnamese/gallery.rpy", line 43: expected statement.
+    "art_teacher_a4_replay" : _("Finish 'A Blast from the Past' and attend class."),
+                            ^
+
+File "game/tl/vietnamese/gallery.rpy", line 49: expected statement.
+    "mafia_m9_replay" : _("Finish 'Room to Grow' and pay your debt."),
+                      ^
+
+File "game/tl/vietnamese/gallery.rpy", line 55: expected statement.
+    "richard_r10_replay" : _("Finish 'Draw me Like you Owe me' and 'Havana' and watch TV."),
+                         ^
+
+File "game/tl/vietnamese/gallery.rpy", line 61: expected statement.
+    "dnd_d4_replay" : _("Finish 'Silence is Silver' and visit Elijah in evening."),
+                    ^
+
+File "game/tl/vietnamese/gallery.rpy", line 67: expected statement.
+    "additional_a1" : _("Finish 'Yacht Party' and buy the DVD."),
+                    ^
+
+File "game/tl/vietnamese/gallery.rpy", line 73: expected statement.
+    "additional_a2" : _("Watch the first DVD and check the shop."),
+                    ^
+
+File "game/tl/vietnamese/gallery.rpy", line 79: expected statement.
+    "gym_posture_3" : _("Finish 'Watch me Sweat it' and work out over 16 times."),
+                    ^
+
+File "game/tl/vietnamese/gallery.rpy", line 85: expected statement.
+    "virtualreality_v3" : _("Finish 'Public Viewing' and 'The Party' and check the shop."),
+                        ^
+
+File "game/tl/vietnamese/gallery.rpy", line 91: expected statement.
+    "mafia_m10" : _("Finish 'Havana' and pay your debt."),
+                ^
+
+File "game/tl/vietnamese/gallery.rpy", line 97: expected statement.
+    "dnd_d4_lose" : _("Lose to Silver Knight in 'The End in Sight'.")
+                  ^
+
+File "game/tl/vietnamese/screens.rpy", line 79: '{' was never closed
+    "thought" : {
+                ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Sun Jun 28 20:43:46 2026
+```
