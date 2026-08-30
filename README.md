@@ -291,7 +291,7 @@ I built this because pronoun-blind machine translation made a fictional married 
 If this tool saved you hours of manual editing, or rescued a translation you had already given up on, consider fuelling the next batch of languages:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/totoroc" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
 </p>
